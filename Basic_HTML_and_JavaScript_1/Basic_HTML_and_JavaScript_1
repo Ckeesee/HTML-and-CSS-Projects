@@ -1,0 +1,5 @@
+<!DOCTYPE HTML>
+	<script>
+		alert("Hello, World!");
+	</script>
+
