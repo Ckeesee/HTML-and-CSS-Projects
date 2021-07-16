@@ -1,0 +1,12 @@
+		p {
+			color:green;
+			text-align:right;
+			}
+		ul {
+			color:red;
+			font-style: oblique;
+		}
+		ol {
+			color:orange;
+			font-style:italic;
+		}
